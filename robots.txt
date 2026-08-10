@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chestnoe-kazino-na-realnye-dengi.github.io
+Sitemap: https://chestnoe-kazino-na-realnye-dengi.github.io/sitemap.xml
